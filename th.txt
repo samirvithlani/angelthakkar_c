@@ -1,0 +1,62 @@
+C language:
+programming language:
+
+Comuter only 0 1
+
+---> english --> 01 --> compiler
+
+compiler: chunk  -->c,cpp
+interpreter:line to line --> python,java
+
+
+code: file --> .c -->windows
+compile --> .obj ---> run --> .exe
+
+#include<stdio.h>
+
+header file:- 
+
+builtin function ---> header file
+#include
+# -> pre processive
+stdio.h -->standered input output
+
+void main () --> starting point
+{
+    main block
+
+}
+
+printf("");
+; --> termination symbol
+
+
+variable declration:
+varible is container which can hold value and we can change it
+type:
+Data type:
+different data type:
+
+bits -->bytes --> kb --> mb -->gb -->tb
+8 ---->1-->1000 -->1000 -->1000->1000 ->
+
+
+name        expl        eg              size    format specifer:
+----------------------------------------------------------------
+int      full value     32            4 bytes     %d
+float    decimal value  12.22         4 bytes     %f
+double   decimal value  123657936.5   8 bytes     %lf
+char     char value     's'           2 bytes     %c
+long     full value     860222255655  8 bytes     %ld
+
+
+variable declaration naming rules:
+
+1)varibale name must not starts with cap  :marks
+2)varibale name must not starts with number: 2026Year
+3)varibale name must not have any white space :student name
+4)varibale name must not have any special char except _ : student_name
+5)varibale name must not have any builtin keyword : 
+
+
+
