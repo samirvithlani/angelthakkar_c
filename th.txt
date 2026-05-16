@@ -59,4 +59,51 @@ variable declaration naming rules:
 5)varibale name must not have any builtin keyword : 
 
 
+range:
+    bits-1
+size
+
+ 32-1
+4
+ 31
+4
+
+
+operaotrs:
+operaotrs are the special symbol which is use for operation bw oprands
+type of operators:
+1)unery operaotrs : it requires only 1 operand
+                  : eg incremnet operator a++ , a--
+2)binery operaotrs: it requires min 2 operand
+                  : + ,- ,*
+3)ternery operaotrs it requires min 3 operand
+                     ?:
+
+
+type of operaotrs:
+1)arithmetic operaotrs: +,-,*,/,%
+        incremnet decrement operator: ++,--
+2)conditinal operaotrs: >,<,>=,<=,==,!=
+3)asihgnmet operaotrs: =, +=,-=,*=,/=
+4)logical operaotrs: &&,||, !
+5)bitwise operaotrs:
+
+
+* asihgnmet operaotrs:
+= --> use for asign value from left side to right side variable.
+
+
+<---------------------------------------->
+++a --> same statment increse
+a++ -->next expression
+
+(++a + ++a) --> same
+(++a + a++) -->11 + 12
+(++a + ++a) + a++
+11 + 12 + 12
+(++a + a++) + a++;
+
+
+
+
 
