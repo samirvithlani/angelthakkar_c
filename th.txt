@@ -104,6 +104,27 @@ a++ -->next expression
 (++a + a++) + a++;
 
 
+decision  making statments:
+if else
+switch case
+loops
+
+condition programme flow change
+
+if(condition){
+
+    //block...
+
+}else{
+    //else block..
+}
+
+
+we can write n no if in single programme
+without if we can write else
+
+relational op:
+>,<,>=<=,==,!=
 
 
 
