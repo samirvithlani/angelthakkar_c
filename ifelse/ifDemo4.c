@@ -8,6 +8,16 @@ void main(){
         printf("enter value of no1 :");
         scanf("%d",&no1);
        
+        if(no1>0){
+               printf("\n no is pos:");
+        }
+        //ladder if else
+        else if(no1==0){
+                printf("\n no is zero:");
+        }
+        else{
+                printf("\n no is neg:");
+        }
         
 
 
