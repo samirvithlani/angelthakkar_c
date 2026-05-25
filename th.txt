@@ -148,3 +148,22 @@ True ______________>True
 False ---->True  ---> True
 False ---->False ---->False
 
+
+
+SWITCH CASE:
+<----- ---->
+
+
+if else: 
+if condition --> true --> if -- else
+else if --->if -->false -->else if --- false -->else if --> false else
+<----------------------------------------------------------------->
+switch case:
+
+switch(choice){
+
+    case 1:
+        //block
+    break;    
+
+}
