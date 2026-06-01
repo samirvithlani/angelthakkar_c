@@ -16,12 +16,12 @@
 void main(){
  
 
-    int i,j;
+    int i,j,s;
     for(i=1;i<=5;i++){
-
-        for(j=1;j<=i;j++){
-            printf("%d ",i);
-        }
+        s = i-1;
+      for(j=0;j<i+1;j++){
+        printf("%d ",s+j);
+      }
         printf("\n");
     }
 
