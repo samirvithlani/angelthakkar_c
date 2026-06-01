@@ -167,3 +167,15 @@ switch(choice){
     break;    
 
 }
+loops:
+1 to 1000
+2 type of loops are there !!
+1)entry control loops: enter level condition check
+    1)for loop
+    2)while loop
+for loop:
+    when we know start condition and as well ending condition
+while:
+    we we dont know ending condition we can use while loop        
+2)exit control loop:exit level condition check
+    1)do while loop
