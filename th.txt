@@ -179,3 +179,7 @@ while:
     we we dont know ending condition we can use while loop        
 2)exit control loop:exit level condition check
     1)do while loop
+
+numric value int flot long double...
+
+char scan --> skip -->buffer
