@@ -183,3 +183,17 @@ while:
 numric value int flot long double...
 
 char scan --> skip -->buffer
+
+array:
+10 students marks -->variable??? :10
+100 ?? 100
+10,000 --> 10,000
+
+array :
+array is group of similar kind of elements.
+array is static: size of an array is fix.
+array stores data in index
+index always starts with 0
+
+10 20 30
+0  1  2
