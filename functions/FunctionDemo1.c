@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 
 // function retur type function name (param){}
 
@@ -15,12 +16,20 @@ void add(int a,int b){
     printf("\n ans = %d",a+b);
 }
 
+void fullName(char fname[],char lname[]){
+
+    strcat(fname,lname);
+    printf("\n %s",fname);
+}
+
 void main(){
 
     int x=100,y=200;
+    char fname[]="amit",lname[]=" shah";
     test(); //calling of functiond
     add(10,20);
     add(x,y);
     //add(); //too few arguments to function 'add'
+    fullName(fname,lname);
     
 }
