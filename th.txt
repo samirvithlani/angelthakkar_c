@@ -229,3 +229,38 @@ B -->66
 ..
 a - 97
 z ...
+
+
+functions:
+def: function is block of statements
+
+BANK APPLICATION:
+
+opan ac:
+
+bacl check : 1000 line * 10
+deposit    : 20000 *2
+withdraw
+..
+
+main function
+
+reusablity of code
+maintain of code
+scale of code
+
+
+2 type of function
+1)pre define function
+2)user define function
+
+
+4 type of function
+
+1) with argument/param  with return type
+2) with argument/param  without return type
+3) without argument/param  with return type
+4) without argument/param  without return type
+
+
+
