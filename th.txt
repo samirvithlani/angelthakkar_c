@@ -264,3 +264,12 @@ scale of code
 
 
 
+:pointers:
+
+Memory : bytes... variable size byte occupie:
+
+
+
+
+
+

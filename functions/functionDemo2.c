@@ -28,6 +28,18 @@ int add(int a,int b){
 
 
 int calc(int a,int b,char op){
+ 
+    int ans;
+    switch(op){
+        case '+':
+                ans = a +b;
+        break;
+        case '*':
+            ans = a *  b;
+        break;
+    }
+
+    return ans;
     
 }
 
@@ -45,5 +57,14 @@ void main()
     //if any function is returning any value we call inside printf.
     printf("\n sum = %d",add(100,90));
 
+    ans = calc(1,2,'+');
+    printf("\n ans=  %d",ans);
+    ans=0;
+    ans = calc(10,2,'*');
+    printf("\n ans = %d",ans);
+
+
     
 }
+
+//sp,ep 00<func --> 10,20 --> return sum
