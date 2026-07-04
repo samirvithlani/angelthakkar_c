@@ -268,6 +268,19 @@ scale of code
 
 Memory : bytes... variable size byte occupie:
 
+structure:
+structure is a group of diff kind of elements:
+
+student data collect:
+int id,
+cahr name
+int rollno
+flot pers
+ ---->
+
+market : vegitables:  1 lg tomato , 2 kg potapts,...
+
+
 
 
 
