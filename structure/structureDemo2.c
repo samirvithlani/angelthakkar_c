@@ -4,6 +4,7 @@ struct Employee
 {
     int id;
     float sal;
+    char name[40];
 };
 
 
