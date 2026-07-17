@@ -281,8 +281,24 @@ flot pers
 market : vegitables:  1 lg tomato , 2 kg potapts,...
 
 
+//FILE:
+output ---> permenet store --> database -->file
 
+FILE : -->
+major 3 operations:
+file open:
+read/ write
+close
 
+<------>
+path:
+absolute path: d://foldername/subfoldername/filename
+relative path:  th.txt
 
+D:\royal\angel_c\th.txt
+th.txt
+
+D:\royal\angel_c\string\longestword.c
+string\longestword.c
 
 
